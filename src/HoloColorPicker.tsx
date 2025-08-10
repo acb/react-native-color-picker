@@ -25,11 +25,11 @@ var __extends =
     };
   })();
 import React, { createRef } from "react";
+import Slider from "@react-native-community/slider";
 import {
   I18nManager,
   Image,
   InteractionManager,
-  Slider,
   StyleSheet,
   TouchableOpacity,
   View,
